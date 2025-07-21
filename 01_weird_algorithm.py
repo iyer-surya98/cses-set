@@ -19,4 +19,5 @@ def weird_algorithm(number: int) -> None:
             print(number, end = ' ')
 
 if __name__ == "__main__":
-    weird_algorithm(3) 
+    number = int(input())
+    weird_algorithm(number) 
