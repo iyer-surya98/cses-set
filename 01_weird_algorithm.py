@@ -1,3 +1,4 @@
+# https://cses.fi/problemset/task/1068
 def weird_algorithm(number: int) -> None:
     """The "weird algorithm" is just `3x + 1`. If x is even, the algorithm divides 
     it by two, and if x is odd, the algorithm multiplies it by three and adds one. 
